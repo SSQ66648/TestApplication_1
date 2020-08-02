@@ -10,11 +10,6 @@
  *  +   v1.0 (addition only) uses manual inclusion of existing item: CalculatorClass from project in same solution.
  *          -created in reference to unclear online resource: refactoring to Unit testing framework for v2.0.
  * To Do:
- *  unit test for:
- *  + addition
- *  + subtraction
- *  + multiplication
- *  + division
  *******************************************************************************/
 using System;
 using TestProject_1;

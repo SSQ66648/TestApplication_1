@@ -10,11 +10,6 @@
  * Notes:
  *  +   
  * To Do:
- *  Add and unit test:
- *  +   Addition
- *  +   Subtraction
- *  +   Multiplication
- *  +   Division
  *******************************************************************************/
 
 
