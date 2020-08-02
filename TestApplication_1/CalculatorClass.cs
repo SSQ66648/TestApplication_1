@@ -9,7 +9,7 @@
  *      Contains methods for addition, subtraction, multiplication and division.
  * Notes:
  *  +   
- * ToDo:
+ * To Do:
  *  Add and unit test:
  *  +   Addition
  *  +   Subtraction
@@ -24,7 +24,7 @@ using System.Text;
 
 namespace TestProject_1
 {
-    class CalculatorClass
+    public class CalculatorClass
     {
         //--------------------------------------
         // Methods

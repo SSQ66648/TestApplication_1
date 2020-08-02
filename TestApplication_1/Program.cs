@@ -9,7 +9,7 @@
  *      Includes basic-arithemetic calculator class for testing unit-tests.
  * Notes:
  *  +   Solution and project renamed from "TestApplication_1" for hierarchical clarity.
- * ToDo:
+ * To Do:
  *  +   Experiment with C# basic methods
  *  +   Add calculator class
  *  +   Create unit test for calculator class

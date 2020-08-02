@@ -9,7 +9,7 @@
  * Notes:
  *  +   v1.0 (addition only) uses manual inclusion of existing item: CalculatorClass from project in same solution.
  *          -created in reference to unclear online resource: refactoring to Unit testing framework for v2.0.
- * ToDo:
+ * To Do:
  *  unit test for:
  *  + addition
  *  + subtraction

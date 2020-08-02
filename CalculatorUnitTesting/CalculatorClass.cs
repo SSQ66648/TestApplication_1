@@ -9,7 +9,7 @@
  *      Contains methods for addition, subtraction, multiplication and division.
  * Notes:
  *  +   
- * ToDo:
+ * To Do:
  *  Add and unit test:
  *  +   Addition
  *  +   Subtraction
